@@ -1,0 +1,20 @@
+{
+  "name": "solidity-classes-test-task",
+  "scripts": {
+    "test": "npx jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ygasparyan/solidity-classes-test-task.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ygasparyan/solidity-classes-test-task/issues"
+  },
+  "type": "module",
+  "homepage": "https://github.com/ygasparyan/solidity-classes-test-task#readme",
+  "dependencies": {
+    "jasmine": "^4.2.1"
+  }
+}
